@@ -12,4 +12,4 @@ The robot would open the position at the price it found within the range that ha
 
 This means that:
 - If it detected buying pressure, it would look for the entry price within the ranges that were 100 BTC below the current price, using the array element that had the highest amount of BTC. 
-- If it detected selling pressure, it would look for the entry price within the ranges that were 100 BTC below the current price, using the array element that had the highest amount of BTC.
+- If it detected selling pressure, it would look for the entry price within the ranges that were 100 BTC above the current price, using the array element that had the highest amount of BTC.
