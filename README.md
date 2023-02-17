@@ -1,5 +1,9 @@
 # pythonAttempTrading
 The day I tried to do automated trading using the order book
+
+ATTENTION: Trading is risky and much more so if you let a robot do it for you.
+
+Evaluate the algorithm that I am giving you and use some functions that are inside, I hope it will help you. Good luck
 ## How did the robot work?
 The robot was receiving data from Binance's order book through the CCXT API and placing orders for position opening using the Pybit API from Bybit.
 ## What conditions should the robot have to open an order?
