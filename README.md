@@ -18,11 +18,11 @@ This means that:
 
 Yes, every time it detected a large amount of BTC, or when it opened a trading position, it recorded everything via Telegram messages. The robot ran continuously on a Replit virtual machine.
 
-##Is the robot currently functional?
+## Is the robot currently functional?
 
 At the moment the robot does not work correctly, because before, I used the order book of FTX and Binance together to calculate the sum of volumes. Apart from the fact that the robot, despite the fact that at the time (7 months ago) it worked perfectly and met all the conditions that I have programmed for it, IT WAS NOT PROFITABLE.
 However, it was a nice experience making the algorithm and programming it.
 
-##Will you try to create something similar?
+## Will you try to create something similar?
 
 In the future, yes, I plan to create an improved robot, using some features that I have created in it, but using more concrete and advanced strategies, adding technical analysis, indicators and exponential sums.
