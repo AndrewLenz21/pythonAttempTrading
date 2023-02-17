@@ -11,8 +11,8 @@ It would then calculate the total buy and sell volume within a price range that 
 The robot would open the position at the price it found within the range that had the highest amount of BTC.
 
 This means that:
-- If it detected buying pressure, it would look for the entry price within the ranges that were 100 BTC below the current price, using the array element that had the highest amount of BTC. 
-- If it detected selling pressure, it would look for the entry price within the ranges that were 100 BTC above the current price, using the array element that had the highest amount of BTC.
+- If it detected buying force, it looked for the entry price in the ranges of 100 in 100 that were below the current price. Using the element of the array that had the highest amount of BTC.
+- If it detected a sales force, it looked for the entry price in the ranges of 100 in 100 that were below the current price. Using the element of the array that had the highest amount of BTC.
 
 ## Did the robot have other functionalities?
 
