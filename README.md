@@ -16,7 +16,7 @@ The robot would open the position at the price it found within the range that ha
 
 This means that:
 - If it detected buying force, it looked for the entry price in the ranges of 100 in 100 that were below the current price. Using the element of the array that had the highest amount of BTC.
-- If it detected a sales force, it looked for the entry price in the ranges of 100 in 100 that were below the current price. Using the element of the array that had the highest amount of BTC.
+- If it detected selling force, it looked for the entry price in the ranges of 100 in 100 that were above the current price. Using the element of the array that had the highest amount of BTC.
 
 ## Did the robot have other functionalities?
 
